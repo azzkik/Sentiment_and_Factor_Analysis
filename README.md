@@ -16,11 +16,11 @@ Terimakasih banyak kepada kelompok saya:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src=".vscode/1.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /> <a href="#" title="Membuat Laporan">📝</a> <a href="#" title="Membuat Kode">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/larasatiramadhani/"><img src=".vscode/3.png" width="100px;" alt="Larasati Romadhani Yunita Putri"/><br /><sub><b>Larasati Romadhani Yunita Putri</b></sub></a><br /> <a href="#" title="Membuat Laporan">📝</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/lrssttt/"><img src=".vscode/2.png" width="100px;" alt="Jeff Allen"/><br /><sub><b>Larasati</b></sub></a><br /><a href="#" title="Membuat Laporan">📝</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/chelliinn/"><img src=".vscode/5.png" width="100px;" alt="Ben Gummer"/><br /><sub><b>Mirechelin Kristanaya</b></sub></a><br /><a href="#" title="Membuat Powerpoint">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/setyobudiiii_/"><img src=".vscode/4.png" width="100px;" alt="James Gillmore"/><br /><sub><b>Setyobudi Utomo</b></sub></a><br /><a href="#" title="Membuat Powerpoint">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/azkiyakmal/"><img src=".vscode/1.png" width="100px;" alt="Muhammad Azkiya' Akmal"/><br /><sub><b>Muhammad Azkiya' Akmal</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/larasatiramadhani/"><img src=".vscode/3.png" width="100px;" alt="Larasati Romadhani Yunita Putri"/><br /><sub><b>Larasati Romadhani Yunita Putri</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/lrssttt/"><img src=".vscode/2.png" width="100px;" alt="Larasati"/><br /><sub><b>Larasati</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/chelliinn/"><img src=".vscode/5.png" width="100px;" alt="Mirechelin Kristanaya"/><br /><sub><b>Mirechelin Kristanaya</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/setyobudiiii_/"><img src=".vscode/4.png" width="100px;" alt="Setyobudi Utomo"/><br /><sub><b>Setyobudi Utomo</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
