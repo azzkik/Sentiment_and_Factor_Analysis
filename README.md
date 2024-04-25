@@ -3,8 +3,8 @@ Pada Project kali ini kelompok saya melakukan analisis sentimen dan analisis fak
 
 ## Laporan Project
 
-Untuk laporan dari project yang kelompok saya kerjakan bisa dilihat pada link berikut ini.
-[Laporan](https://laporanproj-azki.blogspot.com/2024/01/laporan-analisis-faktor-dan-analisis.html)
+Untuk Artikel dari project yang kelompok saya kerjakan bisa dilihat pada link berikut ini.
+[Laporan](#)
 
 ## Contributors ✨
 
